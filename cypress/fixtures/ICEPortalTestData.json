@@ -1,0 +1,14 @@
+{
+	"HomePage":{
+		"webSite": "https://10.64.248.42:8083",
+		"homePageTitle": "Home - ICE Portal"
+	},
+	"FancyFeast":{
+		"fancyFeastTPageitle":"Digitale Bordgastronomie - ICE Portal",
+		"fancyFeastUrl": "https://10.64.248.42:8083/bestellen_am_platz",
+		"fancyFeastMainTitle": "Digital on-board catering",
+		"actionTitle": "action",
+		"menuItem": "Menu: Vegan BIO pretzel snack sauerkraut & mustard",
+		"menuItemDesc": "plus Voelkel BioZisch Rhubarb, 0.33 l bottle"
+	}
+}
